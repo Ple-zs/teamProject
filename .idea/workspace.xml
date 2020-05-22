@@ -49,7 +49,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HelloWorld" />
@@ -57,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -75,7 +83,7 @@
       <updated>1590123825550</updated>
       <workItem from="1590123827017" duration="1878000" />
       <workItem from="1590126027120" duration="19000" />
-      <workItem from="1590136576640" duration="1181000" />
+      <workItem from="1590136576640" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一条输出语句">
       <created>1590123980269</created>
@@ -161,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590137059944</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="重新存储">
+      <created>1590139023994</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590139023994</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,10 +212,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1590123878217" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590137058715">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590139022965">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590137058715" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590139022965" />
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1590137044008">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -233,18 +248,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590125453893" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590137062170">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590139025762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590137062170" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590139025762" />
     <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590137146629">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1590137146629" />
-    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590137138636">
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590138981836">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590137138636" />
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590138981836" />
     <state x="561" y="293" key="git4idea.rebase.GitRebaseDialog" timestamp="1590136975540">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
