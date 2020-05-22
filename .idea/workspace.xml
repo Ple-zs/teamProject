@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b233432-ab14-4473-a6ae-98caf5e06b22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590123825550</updated>
-      <workItem from="1590123827017" duration="483000" />
+      <workItem from="1590123827017" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一条输出语句">
       <created>1590123980269</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590124226611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="又添加了一条输出语句">
+      <created>1590124373767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590124373767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,16 +117,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加了一条输出语句" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了一条输出语句" />
+    <MESSAGE value="又添加了一条输出语句" />
+    <option name="LAST_COMMIT_MESSAGE" value="又添加了一条输出语句" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="7" key="#Project_Structure" timestamp="1590123878217">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1590123878217" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590124225658">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590124372807">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590124225658" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590124372807" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590124574552">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590124574552" />
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590124599851">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590124599851" />
   </component>
 </project>
