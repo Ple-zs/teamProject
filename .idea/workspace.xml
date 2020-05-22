@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590123825550</updated>
-      <workItem from="1590123827017" duration="1220000" />
+      <workItem from="1590123827017" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一条输出语句">
       <created>1590123980269</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590125026308</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="更新了时间">
+      <created>1590125076980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590125076980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,24 +155,25 @@
     <MESSAGE value="又添加了一条输出语句" />
     <MESSAGE value="又又添加了一条输出语句" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="更新了时间" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了时间" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="7" key="#Project_Structure" timestamp="1590123878217">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1590123878217" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590125025294">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590125076120">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590125025294" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590124841897">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590125076120" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590125188643">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590124841897" />
-    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590124599851">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590125188643" />
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590125162839">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590124599851" />
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590125162839" />
   </component>
 </project>
