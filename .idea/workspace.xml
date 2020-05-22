@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b233432-ab14-4473-a6ae-98caf5e06b22" name="Default Changelist" comment="更新了时间">
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1b233432-ab14-4473-a6ae-98caf5e06b22" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1cFURMA3qxBF27UaV6vwaBPzpMG" />
   <component name="ProjectViewState">
@@ -79,7 +75,7 @@
       <updated>1590123825550</updated>
       <workItem from="1590123827017" duration="1878000" />
       <workItem from="1590126027120" duration="19000" />
-      <workItem from="1590136576640" duration="467000" />
+      <workItem from="1590136576640" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一条输出语句">
       <created>1590123980269</created>
@@ -158,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590125329200</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="重新存储">
+      <created>1590137059944</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590137059944</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +185,8 @@
     <MESSAGE value="又又添加了一条输出语句" />
     <MESSAGE value="1" />
     <MESSAGE value="更新了时间" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了时间" />
+    <MESSAGE value="重新存储" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新存储" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="294" key="#Notifications" timestamp="1590126039223">
@@ -193,10 +197,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1590123878217" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590136957450">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590137058715">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590136957450" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590137058715" />
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1590137044008">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -229,18 +233,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590125453893" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590125331725">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590137062170">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590125331725" />
-    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590136693533">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590137062170" />
+    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590137146629">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1590136693533" />
-    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590137022355">
+    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1590137146629" />
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590137138636">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590137022355" />
+    <state x="476" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1590137138636" />
     <state x="561" y="293" key="git4idea.rebase.GitRebaseDialog" timestamp="1590136975540">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
