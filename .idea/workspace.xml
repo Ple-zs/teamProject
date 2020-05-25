@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1b233432-ab14-4473-a6ae-98caf5e06b22" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +41,15 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1cFURMA3qxBF27UaV6vwaBPzpMG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -59,7 +64,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HelloWorld" />
@@ -76,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +98,9 @@
       <updated>1590123825550</updated>
       <workItem from="1590123827017" duration="1878000" />
       <workItem from="1590126027120" duration="19000" />
-      <workItem from="1590136576640" duration="2064000" />
+      <workItem from="1590136576640" duration="2500000" />
+      <workItem from="1590410759098" duration="99000" />
+      <workItem from="1590411612694" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一条输出语句">
       <created>1590123980269</created>
@@ -193,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590139809217</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="重新存储">
+      <created>1590139891746</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590139891746</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +226,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加了一条输出语句" />
     <MESSAGE value="又添加了一条输出语句" />
     <MESSAGE value="又又添加了一条输出语句" />
@@ -229,10 +244,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1590123878217" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590139808308">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1590139890628">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590139808308" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590139890628" />
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1590137044008">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -245,34 +260,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="632" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1590125659695" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1590139764809">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1590410856993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590139764809" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1590139764808">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590410856993" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1590410856993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590139764808" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1590139764808">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590410856993" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1590410856993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590139764808" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1590139764808">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590410856993" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1590410856993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590139764808" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590410856993" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1590125453893">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590125453893" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590139811167">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590139892985">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590139811167" />
-    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590139771964">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590139892985" />
+    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590140210621">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1590139771964" />
+    <state x="563" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1590140210621" />
     <state x="476" y="219" key="git4idea.merge.GitPullDialog" timestamp="1590139790756">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

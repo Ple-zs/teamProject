@@ -8,5 +8,7 @@ public class Main {
         System.out.println("2020-05-22 13:24");
         System.out.println("2020-05-22 13:27");
         System.out.println("2020-05-22 13:28");
+        System.out.println("2020-05-25-21:00");
+        System.out.println("你好？！");
     }
 }
